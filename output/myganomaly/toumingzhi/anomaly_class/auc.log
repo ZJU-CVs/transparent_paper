@@ -1,0 +1,609 @@
+================ Fri May 29 12:30:58 2020 ================
+
+   Avg Run Time (ms/batch): 2.992 AUC: 0.474 max AUC: 0.474
+================ Fri May 29 12:30:59 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.666 max AUC: 0.666
+================ Fri May 29 12:31:00 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.760 max AUC: 0.760
+================ Fri May 29 12:31:01 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.800 max AUC: 0.800
+================ Fri May 29 12:31:02 2020 ================
+
+   Avg Run Time (ms/batch): 2.992 AUC: 0.817 max AUC: 0.817
+================ Fri May 29 12:31:03 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.813 max AUC: 0.817
+================ Fri May 29 12:31:04 2020 ================
+
+   Avg Run Time (ms/batch): 2.992 AUC: 0.764 max AUC: 0.817
+================ Fri May 29 12:31:05 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.732 max AUC: 0.817
+================ Fri May 29 12:31:06 2020 ================
+
+   Avg Run Time (ms/batch): 2.993 AUC: 0.707 max AUC: 0.817
+================ Fri May 29 12:31:07 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.670 max AUC: 0.817
+================ Fri May 29 12:31:08 2020 ================
+
+   Avg Run Time (ms/batch): 2.992 AUC: 0.664 max AUC: 0.817
+================ Fri May 29 12:31:10 2020 ================
+
+   Avg Run Time (ms/batch): 2.992 AUC: 0.651 max AUC: 0.817
+================ Fri May 29 12:31:11 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.604 max AUC: 0.817
+================ Fri May 29 12:31:12 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.613 max AUC: 0.817
+================ Fri May 29 12:31:13 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.583 max AUC: 0.817
+================ Fri May 29 12:31:14 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.615 max AUC: 0.817
+================ Fri May 29 12:31:15 2020 ================
+
+   Avg Run Time (ms/batch): 3.990 AUC: 0.578 max AUC: 0.817
+================ Fri May 29 12:31:16 2020 ================
+
+   Avg Run Time (ms/batch): 3.493 AUC: 0.586 max AUC: 0.817
+================ Fri May 29 12:31:17 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.576 max AUC: 0.817
+================ Fri May 29 12:31:18 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.584 max AUC: 0.817
+================ Fri May 29 12:31:19 2020 ================
+
+   Avg Run Time (ms/batch): 3.490 AUC: 0.581 max AUC: 0.817
+================ Fri May 29 12:31:20 2020 ================
+
+   Avg Run Time (ms/batch): 3.487 AUC: 0.589 max AUC: 0.817
+================ Fri May 29 12:31:21 2020 ================
+
+   Avg Run Time (ms/batch): 3.990 AUC: 0.591 max AUC: 0.817
+================ Fri May 29 12:31:22 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.596 max AUC: 0.817
+================ Fri May 29 12:31:23 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.611 max AUC: 0.817
+================ Fri May 29 12:31:25 2020 ================
+
+   Avg Run Time (ms/batch): 4.488 AUC: 0.605 max AUC: 0.817
+================ Fri May 29 12:31:26 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.604 max AUC: 0.817
+================ Fri May 29 12:31:27 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.609 max AUC: 0.817
+================ Fri May 29 12:31:28 2020 ================
+
+   Avg Run Time (ms/batch): 3.490 AUC: 0.609 max AUC: 0.817
+================ Fri May 29 12:31:29 2020 ================
+
+   Avg Run Time (ms/batch): 3.494 AUC: 0.606 max AUC: 0.817
+================ Fri May 29 12:31:30 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.597 max AUC: 0.817
+================ Fri May 29 12:31:31 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.592 max AUC: 0.817
+================ Fri May 29 12:31:32 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.606 max AUC: 0.817
+================ Fri May 29 12:31:33 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.608 max AUC: 0.817
+================ Fri May 29 12:31:34 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.629 max AUC: 0.817
+================ Fri May 29 12:31:35 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.650 max AUC: 0.817
+================ Fri May 29 12:31:36 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.687 max AUC: 0.817
+================ Fri May 29 12:31:37 2020 ================
+
+   Avg Run Time (ms/batch): 2.992 AUC: 0.702 max AUC: 0.817
+================ Fri May 29 12:31:38 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.769 max AUC: 0.817
+================ Fri May 29 12:31:40 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.796 max AUC: 0.817
+================ Fri May 29 12:31:41 2020 ================
+
+   Avg Run Time (ms/batch): 3.990 AUC: 0.812 max AUC: 0.817
+================ Fri May 29 12:31:42 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.886 max AUC: 0.886
+================ Fri May 29 12:31:43 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.882 max AUC: 0.886
+================ Fri May 29 12:31:44 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.936 max AUC: 0.936
+================ Fri May 29 12:31:45 2020 ================
+
+   Avg Run Time (ms/batch): 3.477 AUC: 0.960 max AUC: 0.960
+================ Fri May 29 12:31:46 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.977 max AUC: 0.977
+================ Fri May 29 12:31:47 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.977 max AUC: 0.977
+================ Fri May 29 12:31:48 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.980 max AUC: 0.980
+================ Fri May 29 12:31:49 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.977 max AUC: 0.980
+================ Fri May 29 12:31:50 2020 ================
+
+   Avg Run Time (ms/batch): 2.992 AUC: 0.976 max AUC: 0.980
+================ Fri May 29 12:31:51 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.995 max AUC: 0.995
+================ Fri May 29 12:31:53 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.989 max AUC: 0.995
+================ Fri May 29 12:31:54 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.984 max AUC: 0.995
+================ Fri May 29 12:31:55 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.993 max AUC: 0.995
+================ Fri May 29 12:31:56 2020 ================
+
+   Avg Run Time (ms/batch): 2.992 AUC: 0.992 max AUC: 0.995
+================ Fri May 29 12:31:57 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.996 max AUC: 0.996
+================ Fri May 29 12:31:58 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.994 max AUC: 0.996
+================ Fri May 29 12:31:59 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.979 max AUC: 0.996
+================ Fri May 29 12:32:00 2020 ================
+
+   Avg Run Time (ms/batch): 3.490 AUC: 0.981 max AUC: 0.996
+================ Fri May 29 12:32:01 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.991 max AUC: 0.996
+================ Fri May 29 12:32:02 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.980 max AUC: 0.996
+================ Fri May 29 12:32:03 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.984 max AUC: 0.996
+================ Fri May 29 12:32:04 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.975 max AUC: 0.996
+================ Fri May 29 12:32:06 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.984 max AUC: 0.996
+================ Fri May 29 12:32:07 2020 ================
+
+   Avg Run Time (ms/batch): 3.503 AUC: 0.987 max AUC: 0.996
+================ Fri May 29 12:32:08 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.972 max AUC: 0.996
+================ Fri May 29 12:32:09 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.967 max AUC: 0.996
+================ Fri May 29 12:32:10 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.990 max AUC: 0.996
+================ Fri May 29 12:32:11 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.986 max AUC: 0.996
+================ Fri May 29 12:32:12 2020 ================
+
+   Avg Run Time (ms/batch): 4.488 AUC: 0.990 max AUC: 0.996
+================ Fri May 29 12:32:13 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.990 max AUC: 0.996
+================ Fri May 29 12:32:14 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.972 max AUC: 0.996
+================ Fri May 29 12:32:15 2020 ================
+
+   Avg Run Time (ms/batch): 3.490 AUC: 0.992 max AUC: 0.996
+================ Fri May 29 12:32:16 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.983 max AUC: 0.996
+================ Fri May 29 12:32:17 2020 ================
+
+   Avg Run Time (ms/batch): 2.991 AUC: 0.987 max AUC: 0.996
+================ Fri May 29 12:32:18 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.992 max AUC: 0.996
+================ Fri May 29 12:32:20 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.996 max AUC: 0.996
+================ Fri May 29 12:32:21 2020 ================
+
+   Avg Run Time (ms/batch): 4.003 AUC: 0.987 max AUC: 0.996
+================ Fri May 29 12:32:22 2020 ================
+
+   Avg Run Time (ms/batch): 3.990 AUC: 0.982 max AUC: 0.996
+================ Fri May 29 12:32:23 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.995 max AUC: 0.996
+================ Fri May 29 12:32:24 2020 ================
+
+   Avg Run Time (ms/batch): 2.992 AUC: 0.979 max AUC: 0.996
+================ Fri May 29 12:32:25 2020 ================
+
+   Avg Run Time (ms/batch): 3.990 AUC: 0.996 max AUC: 0.996
+================ Fri May 29 12:32:26 2020 ================
+
+   Avg Run Time (ms/batch): 3.990 AUC: 0.984 max AUC: 0.996
+================ Fri May 29 12:32:27 2020 ================
+
+   Avg Run Time (ms/batch): 3.975 AUC: 0.991 max AUC: 0.996
+================ Fri May 29 12:32:28 2020 ================
+
+   Avg Run Time (ms/batch): 2.992 AUC: 0.986 max AUC: 0.996
+================ Fri May 29 12:32:29 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.987 max AUC: 0.996
+================ Fri May 29 12:32:30 2020 ================
+
+   Avg Run Time (ms/batch): 2.992 AUC: 0.991 max AUC: 0.996
+================ Fri May 29 12:32:31 2020 ================
+
+   Avg Run Time (ms/batch): 4.488 AUC: 0.991 max AUC: 0.996
+================ Fri May 29 12:32:32 2020 ================
+
+   Avg Run Time (ms/batch): 3.990 AUC: 0.982 max AUC: 0.996
+================ Fri May 29 12:32:34 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.993 max AUC: 0.996
+================ Fri May 29 12:32:35 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.995 max AUC: 0.996
+================ Fri May 29 12:32:36 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.994 max AUC: 0.996
+================ Fri May 29 12:32:37 2020 ================
+
+   Avg Run Time (ms/batch): 3.991 AUC: 0.996 max AUC: 0.996
+================ Fri May 29 12:32:38 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.996 max AUC: 0.996
+================ Fri May 29 12:32:39 2020 ================
+
+   Avg Run Time (ms/batch): 2.992 AUC: 0.990 max AUC: 0.996
+================ Fri May 29 12:32:40 2020 ================
+
+   Avg Run Time (ms/batch): 3.990 AUC: 0.987 max AUC: 0.996
+================ Fri May 29 12:32:41 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.995 max AUC: 0.996
+================ Fri May 29 12:32:42 2020 ================
+
+   Avg Run Time (ms/batch): 3.492 AUC: 0.994 max AUC: 0.996
+================ Fri May 29 12:32:43 2020 ================
+
+   Avg Run Time (ms/batch): 3.490 AUC: 0.992 max AUC: 0.996
+================ Fri May 29 12:32:44 2020 ================
+
+   Avg Run Time (ms/batch): 3.490 AUC: 0.994 max AUC: 0.996
+================ Fri May 29 12:32:45 2020 ================
+
+   Avg Run Time (ms/batch): 3.492 AUC: 0.989 max AUC: 0.996
+================ Fri May 29 12:32:46 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.992 max AUC: 0.996
+================ Fri May 29 12:32:47 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.998 max AUC: 0.998
+================ Fri May 29 12:32:49 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.995 max AUC: 0.998
+================ Fri May 29 12:32:50 2020 ================
+
+   Avg Run Time (ms/batch): 3.490 AUC: 0.991 max AUC: 0.998
+================ Fri May 29 12:32:51 2020 ================
+
+   Avg Run Time (ms/batch): 3.495 AUC: 0.988 max AUC: 0.998
+================ Fri May 29 12:32:52 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.985 max AUC: 0.998
+================ Fri May 29 12:32:53 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.995 max AUC: 0.998
+================ Fri May 29 12:32:54 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.989 max AUC: 0.998
+================ Fri May 29 12:32:55 2020 ================
+
+   Avg Run Time (ms/batch): 3.502 AUC: 0.994 max AUC: 0.998
+================ Fri May 29 12:32:56 2020 ================
+
+   Avg Run Time (ms/batch): 4.488 AUC: 0.989 max AUC: 0.998
+================ Fri May 29 12:32:57 2020 ================
+
+   Avg Run Time (ms/batch): 3.489 AUC: 0.996 max AUC: 0.998
+================ Fri May 29 12:32:58 2020 ================
+
+   Avg Run Time (ms/batch): 3.490 AUC: 0.997 max AUC: 0.998
+================ Fri May 29 12:32:59 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.988 max AUC: 0.998
+================ Fri May 29 12:33:00 2020 ================
+
+   Avg Run Time (ms/batch): 3.990 AUC: 0.989 max AUC: 0.998
+================ Fri May 29 12:33:02 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.993 max AUC: 0.998
+================ Fri May 29 12:33:03 2020 ================
+
+   Avg Run Time (ms/batch): 3.492 AUC: 0.996 max AUC: 0.998
+================ Fri May 29 12:33:04 2020 ================
+
+   Avg Run Time (ms/batch): 3.492 AUC: 0.995 max AUC: 0.998
+================ Fri May 29 12:33:05 2020 ================
+
+   Avg Run Time (ms/batch): 2.992 AUC: 0.995 max AUC: 0.998
+================ Fri May 29 12:33:06 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.998 max AUC: 0.998
+================ Fri May 29 12:33:07 2020 ================
+
+   Avg Run Time (ms/batch): 2.992 AUC: 0.994 max AUC: 0.998
+================ Fri May 29 12:33:08 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.994 max AUC: 0.998
+================ Fri May 29 12:33:09 2020 ================
+
+   Avg Run Time (ms/batch): 3.490 AUC: 0.997 max AUC: 0.998
+================ Fri May 29 12:33:10 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.993 max AUC: 0.998
+================ Fri May 29 12:33:11 2020 ================
+
+   Avg Run Time (ms/batch): 4.488 AUC: 0.987 max AUC: 0.998
+================ Fri May 29 12:33:12 2020 ================
+
+   Avg Run Time (ms/batch): 3.504 AUC: 0.990 max AUC: 0.998
+================ Fri May 29 12:33:13 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.991 max AUC: 0.998
+================ Fri May 29 12:33:15 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.988 max AUC: 0.998
+================ Fri May 29 12:33:16 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.992 max AUC: 0.998
+================ Fri May 29 12:33:17 2020 ================
+
+   Avg Run Time (ms/batch): 3.489 AUC: 0.996 max AUC: 0.998
+================ Fri May 29 12:33:18 2020 ================
+
+   Avg Run Time (ms/batch): 3.990 AUC: 0.994 max AUC: 0.998
+================ Fri May 29 12:33:19 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.995 max AUC: 0.998
+================ Fri May 29 12:33:20 2020 ================
+
+   Avg Run Time (ms/batch): 2.992 AUC: 0.993 max AUC: 0.998
+================ Fri May 29 12:33:21 2020 ================
+
+   Avg Run Time (ms/batch): 2.992 AUC: 0.993 max AUC: 0.998
+================ Fri May 29 12:33:22 2020 ================
+
+   Avg Run Time (ms/batch): 4.488 AUC: 0.995 max AUC: 0.998
+================ Fri May 29 12:33:23 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.997 max AUC: 0.998
+================ Fri May 29 12:33:24 2020 ================
+
+   Avg Run Time (ms/batch): 2.992 AUC: 0.996 max AUC: 0.998
+================ Fri May 29 12:33:25 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.992 max AUC: 0.998
+================ Fri May 29 12:33:26 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.992 max AUC: 0.998
+================ Fri May 29 12:33:27 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.993 max AUC: 0.998
+================ Fri May 29 12:33:28 2020 ================
+
+   Avg Run Time (ms/batch): 3.990 AUC: 0.990 max AUC: 0.998
+================ Fri May 29 12:33:30 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.995 max AUC: 0.998
+================ Fri May 29 12:33:31 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.996 max AUC: 0.998
+================ Fri May 29 12:33:32 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.995 max AUC: 0.998
+================ Fri May 29 12:33:33 2020 ================
+
+   Avg Run Time (ms/batch): 3.990 AUC: 0.996 max AUC: 0.998
+================ Fri May 29 12:33:34 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.998 max AUC: 0.998
+================ Fri May 29 12:33:35 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.996 max AUC: 0.998
+================ Fri May 29 12:33:36 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.995 max AUC: 0.998
+================ Fri May 29 12:33:37 2020 ================
+
+   Avg Run Time (ms/batch): 3.492 AUC: 0.996 max AUC: 0.998
+================ Fri May 29 12:33:38 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.993 max AUC: 0.998
+================ Fri May 29 12:33:39 2020 ================
+
+   Avg Run Time (ms/batch): 3.489 AUC: 0.994 max AUC: 0.998
+================ Fri May 29 12:33:40 2020 ================
+
+   Avg Run Time (ms/batch): 4.488 AUC: 0.990 max AUC: 0.998
+================ Fri May 29 12:33:42 2020 ================
+
+   Avg Run Time (ms/batch): 3.990 AUC: 0.993 max AUC: 0.998
+================ Fri May 29 12:33:43 2020 ================
+
+   Avg Run Time (ms/batch): 3.490 AUC: 0.986 max AUC: 0.998
+================ Fri May 29 12:33:44 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.993 max AUC: 0.998
+================ Fri May 29 12:33:45 2020 ================
+
+   Avg Run Time (ms/batch): 4.001 AUC: 0.994 max AUC: 0.998
+================ Fri May 29 12:33:46 2020 ================
+
+   Avg Run Time (ms/batch): 4.004 AUC: 0.995 max AUC: 0.998
+================ Fri May 29 12:33:47 2020 ================
+
+   Avg Run Time (ms/batch): 3.490 AUC: 0.993 max AUC: 0.998
+================ Fri May 29 12:33:48 2020 ================
+
+   Avg Run Time (ms/batch): 2.992 AUC: 0.994 max AUC: 0.998
+================ Fri May 29 12:33:49 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.992 max AUC: 0.998
+================ Fri May 29 12:33:50 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.996 max AUC: 0.998
+================ Fri May 29 12:33:51 2020 ================
+
+   Avg Run Time (ms/batch): 2.992 AUC: 0.996 max AUC: 0.998
+================ Fri May 29 12:33:52 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.995 max AUC: 0.998
+================ Fri May 29 12:33:53 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.992 max AUC: 0.998
+================ Fri May 29 12:33:55 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.985 max AUC: 0.998
+================ Fri May 29 12:33:56 2020 ================
+
+   Avg Run Time (ms/batch): 3.990 AUC: 0.993 max AUC: 0.998
+================ Fri May 29 12:33:57 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.995 max AUC: 0.998
+================ Fri May 29 12:33:58 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.995 max AUC: 0.998
+================ Fri May 29 12:33:59 2020 ================
+
+   Avg Run Time (ms/batch): 3.490 AUC: 0.995 max AUC: 0.998
+================ Fri May 29 12:34:00 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.996 max AUC: 0.998
+================ Fri May 29 12:34:01 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.998 max AUC: 0.998
+================ Fri May 29 12:34:02 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.994 max AUC: 0.998
+================ Fri May 29 12:34:03 2020 ================
+
+   Avg Run Time (ms/batch): 3.990 AUC: 0.996 max AUC: 0.998
+================ Fri May 29 12:34:04 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.989 max AUC: 0.998
+================ Fri May 29 12:34:05 2020 ================
+
+   Avg Run Time (ms/batch): 2.994 AUC: 0.991 max AUC: 0.998
+================ Fri May 29 12:34:06 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.998 max AUC: 0.998
+================ Fri May 29 12:34:07 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.993 max AUC: 0.998
+================ Fri May 29 12:34:09 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.995 max AUC: 0.998
+================ Fri May 29 12:34:10 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.995 max AUC: 0.998
+================ Fri May 29 12:34:11 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.995 max AUC: 0.998
+================ Fri May 29 12:34:12 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.992 max AUC: 0.998
+================ Fri May 29 12:34:13 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.977 max AUC: 0.998
+================ Fri May 29 12:34:14 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.981 max AUC: 0.998
+================ Fri May 29 12:34:15 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.994 max AUC: 0.998
+================ Fri May 29 12:34:16 2020 ================
+
+   Avg Run Time (ms/batch): 4.488 AUC: 0.993 max AUC: 0.998
+================ Fri May 29 12:34:17 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.995 max AUC: 0.998
+================ Fri May 29 12:34:18 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.998 max AUC: 0.998
+================ Fri May 29 12:34:19 2020 ================
+
+   Avg Run Time (ms/batch): 3.492 AUC: 0.992 max AUC: 0.998
+================ Fri May 29 12:34:20 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.995 max AUC: 0.998
+================ Fri May 29 12:34:21 2020 ================
+
+   Avg Run Time (ms/batch): 3.502 AUC: 0.997 max AUC: 0.998
+================ Fri May 29 12:34:23 2020 ================
+
+   Avg Run Time (ms/batch): 3.477 AUC: 0.972 max AUC: 0.998
+================ Fri May 29 12:34:24 2020 ================
+
+   Avg Run Time (ms/batch): 3.505 AUC: 0.993 max AUC: 0.998
+================ Fri May 29 12:34:25 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.996 max AUC: 0.998
+================ Fri May 29 12:34:26 2020 ================
+
+   Avg Run Time (ms/batch): 4.488 AUC: 0.983 max AUC: 0.998
+================ Fri May 29 12:34:27 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.975 max AUC: 0.998
+================ Fri May 29 12:34:28 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.984 max AUC: 0.998
+================ Fri May 29 12:34:29 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.991 max AUC: 0.998
+================ Fri May 29 12:34:30 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.986 max AUC: 0.998
+================ Fri May 29 12:34:31 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.979 max AUC: 0.998
+================ Fri May 29 12:34:32 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.995 max AUC: 0.998
+================ Fri May 29 12:52:55 2020 ================
+
+   Avg Run Time (ms/batch): 3.989 AUC: 0.986 max AUC: 0.986
+================ Fri May 29 12:52:56 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.957 max AUC: 0.986
+================ Fri May 29 12:52:57 2020 ================
+
+   Avg Run Time (ms/batch): 3.491 AUC: 0.990 max AUC: 0.990

@@ -1,0 +1,2537 @@
+------------ Options -------------
+================ Fri May 29 12:30:36 2020 ================
+abnormal_class: anomaly_class
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: False
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 12:30:54 2020 ================
+abnormal_class: anomaly_class
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: False
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 12:52:52 2020 ================
+abnormal_class: anomaly_class
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 12:53:18 2020 ================
+abnormal_class: anomaly_class
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 12:53:33 2020 ================
+abnormal_class: anomaly_class
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 12:55:06 2020 ================
+abnormal_class: anomaly_class
+batchsize: 1
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 12:55:18 2020 ================
+abnormal_class: anomaly_class
+batchsize: 2
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 12:55:50 2020 ================
+abnormal_class: anomaly_class
+batchsize: 2
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 12:57:38 2020 ================
+abnormal_class: anomaly_class
+batchsize: 2
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 13:00:26 2020 ================
+abnormal_class: anomaly_class
+batchsize: 2
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 13:00:48 2020 ================
+abnormal_class: anomaly_class
+batchsize: 2
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 13:00:59 2020 ================
+abnormal_class: anomaly_class
+batchsize: 2
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 13:02:25 2020 ================
+abnormal_class: anomaly_class
+batchsize: 2
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 13:06:07 2020 ================
+abnormal_class: anomaly_class
+batchsize: 30
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 13:06:38 2020 ================
+abnormal_class: anomaly_class
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 13:08:48 2020 ================
+abnormal_class: anomaly_class
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 13:09:10 2020 ================
+abnormal_class: anomaly_class
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 13:09:26 2020 ================
+abnormal_class: anomaly_class
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 13:09:56 2020 ================
+abnormal_class: anomaly_class
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 13:10:19 2020 ================
+abnormal_class: anomaly_class
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 13:12:21 2020 ================
+abnormal_class: anomaly_class
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 13:12:29 2020 ================
+abnormal_class: anomaly_class
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 13:13:22 2020 ================
+abnormal_class: anomaly_class
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 13:13:31 2020 ================
+abnormal_class: anomaly_class
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: False
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 13:13:48 2020 ================
+abnormal_class: anomaly_class
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: False
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 13:14:02 2020 ================
+abnormal_class: anomaly_class
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 13:15:23 2020 ================
+abnormal_class: anomaly_class
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Fri May 29 13:16:40 2020 ================
+abnormal_class: anomaly_class
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Sat May 30 16:48:03 2020 ================
+abnormal_class: anomaly_class
+batchsize: 64
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Sat May 30 16:55:18 2020 ================
+abnormal_class: anomaly_class
+batchsize: 30
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Sat May 30 16:55:38 2020 ================
+abnormal_class: anomaly_class
+batchsize: 30
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Sat May 30 16:56:12 2020 ================
+abnormal_class: anomaly_class
+batchsize: 30
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Sat May 30 16:57:06 2020 ================
+abnormal_class: anomaly_class
+batchsize: 30
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Sat May 30 16:57:49 2020 ================
+abnormal_class: anomaly_class
+batchsize: 30
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Sat May 30 16:58:32 2020 ================
+abnormal_class: anomaly_class
+batchsize: 30
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Sat May 30 17:00:47 2020 ================
+abnormal_class: anomaly_class
+batchsize: 30
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Sat May 30 17:01:03 2020 ================
+abnormal_class: anomaly_class
+batchsize: 30
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Sat May 30 17:02:47 2020 ================
+abnormal_class: anomaly_class
+batchsize: 30
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Sat May 30 17:05:55 2020 ================
+abnormal_class: anomaly_class
+batchsize: 30
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Sat May 30 17:06:20 2020 ================
+abnormal_class: anomaly_class
+batchsize: 30
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Sat May 30 17:08:54 2020 ================
+abnormal_class: anomaly_class
+batchsize: 30
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Sat May 30 17:09:38 2020 ================
+abnormal_class: anomaly_class
+batchsize: 30
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 200
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
+------------ Options -------------
+================ Sat May 30 17:12:58 2020 ================
+abnormal_class: anomaly_class
+batchsize: 30
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 30
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
