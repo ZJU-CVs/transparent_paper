@@ -2535,3 +2535,62 @@ w_con: 50
 w_lat: 1
 workers: 8
 -------------- End ----------------
+------------ Options -------------
+================ Sat May 30 17:20:51 2020 ================
+abnormal_class: anomaly_class
+batchsize: 30
+beta1: 0.5
+dataroot: 
+dataset: toumingzhi
+device: cuda:0
+display: False
+display_id: 0
+display_port: 8097
+display_server: http://localhost
+droplast: True
+eva_epoch: 1
+extralayers: 0
+gpu_ids: 0
+isTrain: True
+isize: 32
+iter: 0
+load_best_weights: False
+load_final_weights: True
+load_weights: False
+loss_iter: 1
+lr: 0.0002
+lr_decay_iters: 50
+lr_policy: lambda
+manualseed: -1
+metric: roc
+model: myganomaly
+name: myganomaly/toumingzhi
+nc: 3
+ndf: 64
+nepoch: 30
+ngf: 64
+ngpu: 1
+niter: 15
+niter_decay: 100
+nz: 128
+outclass_dir: ./output\myganomaly/toumingzhi\anomaly_class
+outfolder: ./output
+outtest_dir: ./output\myganomaly/toumingzhi\anomaly_class\test
+outtrain_dir: ./output\myganomaly/toumingzhi\anomaly_class\train
+path: 
+phase: train
+print_freq: 100
+resume: 
+save_best_weight: True
+save_final_weight: True
+save_image_freq: 100
+save_loss_curve: True
+save_test_images: True
+save_train_images: True
+verbose: False
+visulize_feature: True
+w_adv: 1
+w_con: 50
+w_lat: 1
+workers: 8
+-------------- End ----------------
